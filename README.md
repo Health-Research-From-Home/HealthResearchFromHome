@@ -55,9 +55,9 @@ You won’t find events like ours anywhere else. They will be created and run by
 
 We’re planning monthly webinars, an annual event, hackathons and grant writing retreats.
 
-### [Our First Monthly Health Research from Home Webinar](https://github.com/myorg4testing/WebinarHome)
+### [Our First Monthly Health Research from Home Webinar](https://github.com/Health-Research-From-Home/Webinars)
 
-Webinar Page: [Click](https://github.com/myorg4testing/WebinarHome)
+Webinar Page: [Click](https://github.com/Health-Research-From-Home/Webinars)
 
 Who: Health Research from Home Lead, Professor Will Dixon
 
