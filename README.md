@@ -51,27 +51,8 @@ It’s going to take the brightest minds in health, academia and technology to d
 We’ve thought long and hard about what is holding electronic, person generated health research back and what we can do to break down some of those barriers.
 
 ### Unique Events
-You won’t find events like ours anywhere else. They will be created and run by people who have successfully completed research projects using smartphones and wearables and they’ll be designed to help you complete your own research project.
 
-We’re planning monthly webinars, an annual event, hackathons and grant writing retreats.
-
-### [Our First Monthly Health Research from Home Webinar](https://github.com/Health-Research-From-Home/Webinars)
-
-Webinar Page: [Click](https://github.com/Health-Research-From-Home/Webinars)
-
-Who: Health Research from Home Lead, Professor Will Dixon
-
-What: Introducing Health Research from Home – the revolutionary new partnership that will transform the future of health research using smartphones and wearables.
-
-When: **3 July 2024**<br/>
-Time: **1-2PM**
-
-
-<a href="https://zoom.us/webinar/register/WN_Za3BY9KWROGqCdhe7y0Qdw#/registration" style="background-color: blue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Book Now</a>
-
-
-Our first webinar will feature Health Research from Home Lead, Professor Will Dixon, who will explain why our partnership was created and how we plan to revolutionise the future of health research. He will also share how he ran his successful research project, Cloudy With a Chance of Pain? The research showed that people with long-term health conditions are 20% more likely to suffer from pain on days that are humid and windy with low atmospheric pressure. This was done using a smartphone app developed by healthcare software company uMotif, participants recorded daily symptoms while the local weather was determined from location data provided by the smartphone’s GPS. 
-
+Find out more - [Click](https://blogs.manchester.ac.uk/centre-for-epidemiology/2024/04/12/hrfh/). 
 
 ### Advice Clinics
 Alongside each webinar you will have the opportunity to book on to an Information Governance Clinic, a Patient and Public Involvement and Engagement Clinic, and a Tech Clinic to support you as you develop your own smartphone and wearable health research project.
@@ -84,9 +65,10 @@ Despite case studies of good success, patient-generated health data research is 
 
 
 ## Community
-Our partners, [Health Data Research UK (HDRUK)](https://www.hdruk.ac.uk/) have enabled us to create a space where you can get the information you need to run your health research project using smartphones and wearables.
 
-From finding the right people, to accessing data sets, to downloading methodologies, to guidance on Information Governance, to guidance on how to seamlessly integrate Patient and public involvement and engagement in your research. This online hub will continue to grow as you tell us what information we can provide to support you.
+Our partners, [Health Data Research UK (HDRUK)](https://www.hdruk.ac.uk/) are enabling us to create a space where you can get the information you need to run your health research project using smartphones and wearables. 
+
+From accessing data sets, to downloading methodologies, to guidance on Information Governance, to guidance on how to seamlessly integrate Patient and Public Involvement and Engagement in your research. This online hub, due to go live in October 2024, will continue to grow as you tell us what information we can provide to support you.
 
 
 ## Research
