@@ -13,14 +13,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 -->
-
-<p align="center">
-  <img alt="Uni Logo" src="Figures/Smartphone_and_watch.jpg" height="260" style="max-width: 100%; display: inline-block;">
-  <br/>
-  <br/>
-</p>
-
-
 <h1 align="center">
     <p>Health Research From Home</p>
 
@@ -37,7 +29,10 @@ limitations under the License.
 Creating a new UK environment to advance population health research using smartphones and wearables. Developing and spreading best practice, including linkage.
 
 ## Who are we?
-Our partnership is on a mission to improve the lives of people living with long-term health conditions. We’re going to make the most of the data we’re all sitting on…the data held in our smartphones and wearables. We’re going to turn that data into world leading health research and help you to do the same, so that together, with patients at the heart of everything we do, we can transform health outcomes for everyone.
+The Health Research from Home partnership is on a mission to improve the lives of people living with long-term health conditions. 
+We’re going to make the most of the data held in smartphones and wearables turning that data into world leading health research and helping you to do the same. So that together, with patients at the heart of everything we do, we can transform health outcomes for everyone.
+To find out more visit: www.tinyurl.com/healthresearchfromhome
+
 
 ## Who are the Health Research from Home Partners?
 It’s going to take the brightest minds in health, academia and technology to deliver our mission. Led by the University of Manchester and Professor Will Dixon, our partnership also includes:
@@ -46,41 +41,21 @@ It’s going to take the brightest minds in health, academia and technology to d
     <img alt="Partner Logos" src="Figures/partners_logo.png" height="280" style="max-width: 100%; display: block; margin: auto;">
 </div>
 
-## What are we going to do?
+## GitHub
+Our GitHib page is an evolving tool for those interested in conducting health research using smartphones and wearables.
+On this page you’ll find links to relevant and interesting resources useful to your research.
+If you’d like to suggest documents we can include on this list, please email hrfh@manchester.ac.uk.
 
-We’ve thought long and hard about what is holding electronic, person generated health research back and what we can do to break down some of those barriers.
+## Publications and Articles
 
-### Unique Events
-
-Find out more - [Click](https://blogs.manchester.ac.uk/centre-for-epidemiology/2024/04/12/hrfh/). 
-
-### Advice Clinics
-Alongside each webinar you will have the opportunity to book on to an Information Governance Clinic, a Patient and Public Involvement and Engagement Clinic, and a Tech Clinic to support you as you develop your own smartphone and wearable health research project.
-
-This is your chance to gain unique one-to-one advice with experts in their fields. This unprecedented access will allow you to discuss the specific issues holding your research back and gain practical advice on how to resolve these issues quickly and effectively.
-
-Despite case studies of good success, patient-generated health data research is yet to deliver at scale because of many challenges. We hope that these clinics will help to fill those gaps in knowledge, skill and tools so that we can make the UK a world-leader in this field of research.
-
-<a href="https://outlook.office365.com/owa/calendar/HRfHClinics@live.manchester.ac.uk/bookings/" style="background-color: blue; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px; display: inline-block;">Book Now</a>
-
-
-## Community
-
-Our partners, [Health Data Research UK (HDRUK)](https://www.hdruk.ac.uk/) are enabling us to create a space where you can get the information you need to run your health research project using smartphones and wearables. 
-
-From accessing data sets, to downloading methodologies, to guidance on Information Governance, to guidance on how to seamlessly integrate Patient and Public Involvement and Engagement in your research. This online hub, due to go live in October 2024, will continue to grow as you tell us what information we can provide to support you.
-
-
-## Research
-We have two, exciting driver projects underway right now. The first on understanding patterns of physical activity after knee replacements, and the second on long-term health outcomes of Long COVID. Both of which are aiming to link electronic, person generated health data to NHS data, something that will revolutionise the future of health research.
-
-<div style="text-align: center;">
-  <img alt="PARrKA pic" src="Figures/PAPrKA.png" width="239" height="309" style="max-width: 100%; display: inline-block;">
-  <img alt="Covid pic" src="Figures/COVID.png" width="239" height="309" style="max-width: 100%; display: inline-block;">
-</div>
-
-We’ll be sharing our own journey so that it can inform your research.
-
+1. Abdulkareem, M. and Petersen, S.E., 2021. The promise of AI in detection, diagnosis, and epidemiology for combating COVID-19: beyond the hype. Frontiers in Artificial Intelligence, 4, p.652669.
+2. Lim, Z.K., Connie, T., Ong Michael Goh, K. and Saedon, N.I., Fall Risk Prediction Using Temporal Gait Features and Machine Learning Approaches. Frontiers in Artificial Intelligence, 7, p.1425713.
+3. Busch, F., Kather, J.N., Johner, C., Moser, M., Truhn, D., Adams, L.C. and Bressem, K.K., 2024. Navigating the European Union Artificial Intelligence Act for Healthcare. npj Digital Medicine, 7(1), p.210.
+4. Liang, W., Zhang, Y., Cao, H., Wang, B., Ding, D.Y., Yang, X., Vodrahalli, K., He, S., Smith, D.S., Yin, Y. and McFarland, D.A., 2024. Can large language models provide useful feedback on research papers? A large-scale empirical analysis. NEJM AI, 1(8), p.AIoa2400196.
+5. Cox Jr, L.A., 2024. An AI assistant to help review and improve causal reasoning in epidemiological documents. Global Epidemiology, 7, p.100130.
+6. Reis, M., Reis, F. and Kunde, W., 2024. Influence of believed AI involvement on the perception of digital medical advice. Nature Medicine, pp.1-3.
+7. "The coalition for health AI have released a draft framework outlining standards for the safe deployment of AI in healthcare" https://chai.org/wp-content/uploads/2024/06/CHAI-Assurance-Standards-Guide-6-26-2024.pdf
+8. McGagh, D., Song, K., Yuan, H., Creagh, A.P., Fenton, S., Ng, W.F., Goldsack, J.C., Dixon, W.G., Doherty, A. and Coates, L.C., 2024. Digital health technologies to strengthen patient-centred outcome assessment in clinical trials in inflammatory arthritis. The Lancet Rheumatology.
 
 ## Find out more
 Email hrfh@manchester.ac.uk to find out more about Health Research from Home.
