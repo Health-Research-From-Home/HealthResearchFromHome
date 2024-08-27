@@ -48,14 +48,14 @@ If you’d like to suggest documents we can include on this list, please email h
 
 ## Publications and Articles
 
-1. Abdulkareem, M. and Petersen, S.E., 2021. The promise of AI in detection, diagnosis, and epidemiology for combating COVID-19: beyond the hype. Frontiers in Artificial Intelligence, 4, p.652669.
-2. Lim, Z.K., Connie, T., Ong Michael Goh, K. and Saedon, N.I., Fall Risk Prediction Using Temporal Gait Features and Machine Learning Approaches. Frontiers in Artificial Intelligence, 7, p.1425713.
-3. Busch, F., Kather, J.N., Johner, C., Moser, M., Truhn, D., Adams, L.C. and Bressem, K.K., 2024. Navigating the European Union Artificial Intelligence Act for Healthcare. npj Digital Medicine, 7(1), p.210.
-4. Liang, W., Zhang, Y., Cao, H., Wang, B., Ding, D.Y., Yang, X., Vodrahalli, K., He, S., Smith, D.S., Yin, Y. and McFarland, D.A., 2024. Can large language models provide useful feedback on research papers? A large-scale empirical analysis. NEJM AI, 1(8), p.AIoa2400196.
-5. Cox Jr, L.A., 2024. An AI assistant to help review and improve causal reasoning in epidemiological documents. Global Epidemiology, 7, p.100130.
-6. Reis, M., Reis, F. and Kunde, W., 2024. Influence of believed AI involvement on the perception of digital medical advice. Nature Medicine, pp.1-3.
+1. **Abdulkareem, M. and Petersen, S.E.** 2021. The promise of AI in detection, diagnosis, and epidemiology for combating COVID-19: beyond the hype. Frontiers in Artificial Intelligence, 4, p.652669. [Read Article](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2021.652669/full)
+2. **Lim, Z.K., Connie, T., Ong Michael Goh, K. and Saedon, N.I.** 2024, Fall Risk Prediction Using Temporal Gait Features and Machine Learning Approaches. Frontiers in Artificial Intelligence, 7, p.1425713. [Read Article](https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1425713/abstract)
+3. **Busch, F., Kather, J.N., Johner, C., Moser, M., Truhn, D., Adams, L.C. and Bressem, K.K.** 2024. Navigating the European Union Artificial Intelligence Act for Healthcare. npj Digital Medicine, 7(1), p.210. [Read Article](https://www.nature.com/articles/s41746-024-01213-6)
+4. **Liang, W., Zhang, Y., Cao, H., Wang, B., Ding, D.Y., Yang, X., Vodrahalli, K., He, S., Smith, D.S., Yin, Y. and McFarland, D.A.** 2024. Can large language models provide useful feedback on research papers? A large-scale empirical analysis. NEJM AI, 1(8), p.AIoa2400196. [Read Article](https://ai.nejm.org/doi/abs/10.1056/AIoa2400196)
+5. **Cox Jr, L.A.** 2024. An AI assistant to help review and improve causal reasoning in epidemiological documents. Global Epidemiology, 7, p.100130. [Read Article](https://www.sciencedirect.com/science/article/pii/S2590113323000330)
+6. **Reis, M., Reis, F. and Kunde, W.** 2024. Influence of believed AI involvement on the perception of digital medical advice. Nature Medicine, pp.1-3. [Read Article](https://www.nature.com/articles/s41591-024-03180-7)
 7. "The coalition for health AI have released a draft framework outlining standards for the safe deployment of AI in healthcare" https://chai.org/wp-content/uploads/2024/06/CHAI-Assurance-Standards-Guide-6-26-2024.pdf
-8. McGagh, D., Song, K., Yuan, H., Creagh, A.P., Fenton, S., Ng, W.F., Goldsack, J.C., Dixon, W.G., Doherty, A. and Coates, L.C., 2024. Digital health technologies to strengthen patient-centred outcome assessment in clinical trials in inflammatory arthritis. The Lancet Rheumatology.
+8. **McGagh, D., Song, K., Yuan, H., Creagh, A.P., Fenton, S., Ng, W.F., Goldsack, J.C., Dixon, W.G., Doherty, A. and Coates, L.C.** 2024. Digital health technologies to strengthen patient-centred outcome assessment in clinical trials in inflammatory arthritis. The Lancet Rheumatology. [Read Article](https://www.thelancet.com/journals/lanrhe/article/PIIS2665-9913(24)00186-3/fulltext)
 
 ## Find out more
 Email hrfh@manchester.ac.uk to find out more about Health Research from Home.
