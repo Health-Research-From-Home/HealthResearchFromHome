@@ -31,7 +31,7 @@ Creating a new UK environment to advance population health research using smartp
 ## Who are we?
 The Health Research from Home partnership is on a mission to improve the lives of people living with long-term health conditions. 
 We’re going to make the most of the data held in smartphones and wearables turning that data into world leading health research and helping you to do the same. So that together, with patients at the heart of everything we do, we can transform health outcomes for everyone.
-To find out more visit: www.tinyurl.com/healthresearchfromhome
+To find out more visit: https://sites.manchester.ac.uk/health-research-from-home/
 
 
 ## Who are the Health Research from Home Partners?
