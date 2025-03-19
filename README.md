@@ -31,7 +31,8 @@ Creating a new UK environment to advance population health research using smartp
 ## Who are we?
 The Health Research from Home partnership is on a mission to improve the lives of people living with long-term health conditions. 
 We’re going to make the most of the data held in smartphones and wearables turning that data into world leading health research and helping you to do the same. So that together, with patients at the heart of everything we do, we can transform health outcomes for everyone.
-To find out more visit: https://sites.manchester.ac.uk/health-research-from-home/
+
+[Find out more](https://sites.manchester.ac.uk/health-research-from-home/) on our website.
 
 
 ## Who are the Health Research from Home Partners?
@@ -44,7 +45,7 @@ It’s going to take the brightest minds in health, academia and technology to d
 ## GitHub
 Our GitHib page is an evolving tool for those interested in conducting health research using smartphones and wearables.
 On this page you’ll find links to relevant and interesting resources useful to your research.
-If you’d like to suggest documents we can include on this list, please email hrfh@manchester.ac.uk.
+If you’d like to suggest documents we can include on this list, please [email us](hrfh@manchester.ac.uk).
 
 ## Publications and Articles
 
@@ -60,4 +61,4 @@ If you’d like to suggest documents we can include on this list, please email h
 10. "Briefing notes for researchers - public involvement in NHS, health and social care research" [Read Article](https://www.nihr.ac.uk/briefing-notes-researchers-public-involvement-nhs-health-and-social-care-research#:~:text=Involvement.%20NIHR%20defines%20public%20involvement%20in%20research%20as)
 
 ## Find out more
-Email hrfh@manchester.ac.uk to find out more about Health Research from Home.
+Email [hrfh@manchester.ac.uk](malto:hrfh@manchester.ac.uk) to find out more about Health Research from Home.
